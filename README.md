@@ -25,10 +25,10 @@ Project Location : CSE Discipline, Khulna University, Khulna, Bangladesh
 
 Project Manager:
 
-	Dr. Md Anisur Rahman
+	Dr. Rameswar Debnath
 	Professor
 	CSE Discipline
-	Khulna University,Khulna-9208
+	Khulna University, Khulna-9208
 
 
 
