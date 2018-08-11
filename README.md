@@ -24,6 +24,7 @@ Project Location : CSE Discipline, Khulna University, Khulna, Bangladesh
 
 
 Project Manager:
+
 	Dr. Md Anisur Rahman
 	Professor
 	CSE Discipline
@@ -32,5 +33,6 @@ Project Manager:
 
 
 Developed by:
+
 	A. K. M. Fahim Rahman (160215)
 	Israt Jahan Joya (160239)
